@@ -1,0 +1,4 @@
+aws_region   = "ap-south-1"
+project_name = "cloud-capstone"
+db_username  = "appadmin"
+# Supply db_password through TF_VAR_db_password environment variable; do not commit a real password.

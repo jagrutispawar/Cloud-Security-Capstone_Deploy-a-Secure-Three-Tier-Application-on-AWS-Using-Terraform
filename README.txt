@@ -1,0 +1,1 @@
+Ten step-wise AWS console reference screenshots supplied in the chat and cleaned of red instructional markup where detected. Some screenshots are examples, not proof of deployment in the student's AWS account. Replace with screenshots captured from the actual deployment before final submission.
